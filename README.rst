@@ -25,5 +25,5 @@ Abstract
 
 
 
-`Основной ноутбук <https://github.com/RubtsovDN/Mass-Spring/blob/master/code/lab3_RubtsovD_mass_spring_RealNVP.ipynb`_.
+`Основной ноутбук <https://github.com/RubtsovDN/Mass-Spring/blob/master/code/lab3_RubtsovD_mass_spring_RealNVP.ipynb>`_.
 
